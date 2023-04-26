@@ -1,7 +1,4 @@
-# portifolio_html
-Primeiro portfólio desenvolvido juntamente com a formação de Html e CSS da Alura.
-
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+#Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
 
